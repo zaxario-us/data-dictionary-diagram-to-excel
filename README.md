@@ -1,4 +1,4 @@
-#Easy to use:
+# Easy to use:
 ```
 from data_dict import DataDictionary
 
